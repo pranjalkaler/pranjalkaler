@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### नमस्ते (Namaste), I am Pranjal Kaler 👋
+### BIENVENUE
+### Je m'appelle Pranjal Kaler
 
 ## I am a Developer, and a Space Enthusiast!
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a Backend Developer
