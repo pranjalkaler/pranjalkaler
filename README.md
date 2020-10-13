@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **pranjalkaler/pranjalkaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Bienvenue!
+### Bonjour, bienvenue!
 ### Je m'appelle Pranjal Kaler!
 
 ## I am a developer, and a Space Enthusiast\!
