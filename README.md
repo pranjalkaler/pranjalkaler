@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### Je m'appelle Pranjal Kaler!
 
 ## I am a developer, and a Space Enthusiast\!
-- 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a Backend Developer
-- 💬 Domain: Rail Distribution
-- 🌱 I am actively learning C++, Python and Android programming
-- ⚡ Love to study about astrophysics, program, CSGO and actively look at memes
+- 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a backend developer.
+- 💬 Domain: Rail Distribution.
+- 🌱 I am actively learning C++, Python and Android programming.
+- ⚡ Love to study about astrophysics, program, CSGO and actively look at memes.
 
 ## Tools and Languages I use
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" />
