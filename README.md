@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### BIENVENUE
-### Je m'appelle Pranjal Kaler
+### Bienvenue!
+### Je m'appelle Pranjal Kaler!
 
-## I am a Developer, and a Space Enthusiast!
+## I am a developer, and a Space Enthusiast\!
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a Backend Developer
 - 💬 Domain: Rail Distribution
 - 🌱 I am actively learning C++, Python and Android programming
