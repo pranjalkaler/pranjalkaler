@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Bonjour, bienvenue!
-### Je m'appelle Pranjal Kaler!
+### Le code ne peut pas mentir, les commentaires peuvent!
 
 ## I am a developer, and a Space Enthusiast\!
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a backend developer.
