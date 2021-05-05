@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Love to study about astrophysics, program, CSGO and actively look at memes.
 
 ## Tools and Languages I use
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" />
