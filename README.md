@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalkaler&count_private=true)](https://github.com/pranjalkaler)
-
+</div>
 ## Catch me @
 [<img align="left" alt="pranjalkaler | Twitter" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/twitter.png" />][twitter]
 [<img align="left" alt="pranjalkaler | LinkedIn" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/linkedin.png" />][linkedin]
