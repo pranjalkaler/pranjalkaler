@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Bonjour, bienvenue!
 ### Le code ne peut pas mentir, les commentaires peuvent!
-
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 ## I am a developer, Aviation and Space Enthusiast\!
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a backend developer.
 - 💬 Domain: Rail Distribution.
