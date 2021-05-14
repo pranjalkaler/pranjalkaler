@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Catch me @
 [<img align="left" alt="pranjalkaler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pranjalkaler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pranjalkaler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pranjalkaler | Instagram" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/instagram.png" />][instagram]
 [<img align="left" alt="pranjalkaler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
 
