@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Bonjour, bienvenue!
 ### Le code ne peut pas mentir, les commentaires peuvent!
 
-## I am a developer, and a Space Enthusiast\!
+## I am a developer, Aviation and Space Enthusiast\!
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a backend developer.
 - 💬 Domain: Rail Distribution.
 - 🌱 I am actively learning C++, Python and Android programming.
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <br />
 
 ## Catch me @
-[<img align="left" alt="pranjalkaler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="pranjalkaler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pranjalkaler | Twitter" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/twitter.png" />][twitter]
+[<img align="left" alt="pranjalkaler | LinkedIn" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/linkedin.png" />][linkedin]
 [<img align="left" alt="pranjalkaler | Instagram" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/instagram.png" />][instagram]
-[<img align="left" alt="pranjalkaler | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="pranjalkaler | Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991144.svg?token=exp=1620986065~hmac=18da0da685720d361cff6abc6c2e6194" />][gmail]
 
 
 [twitter]: https://twitter.com/pranjal_kaler
