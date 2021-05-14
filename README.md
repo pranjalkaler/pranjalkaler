@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a backend developer.
 - 💬 Domain: Rail Distribution.
 - 🌱 I am actively learning C++, Python and Android programming.
-- ⚡ Love to study about astrophysics, program, CSGO and actively look at memes.
+- ⚡ Love to study about Aviation, Astronomy, program, CSGO and creating memes.
 
 ## Tools and Languages I use
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.svg" />
