@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="pranjalkaler | Twitter" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/twitter.png" />][twitter]
 [<img align="left" alt="pranjalkaler | LinkedIn" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/linkedin.png" />][linkedin]
 [<img align="left" alt="pranjalkaler | Instagram" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/instagram.png" />][instagram]
-[<img align="left" alt="pranjalkaler | Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991144.svg?token=exp=1620986065~hmac=18da0da685720d361cff6abc6c2e6194" />][gmail]
+<!--[<img align="left" alt="pranjalkaler | Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991144.svg?token=exp=1620986065~hmac=18da0da685720d361cff6abc6c2e6194" />][gmail] -->
 
 
 [twitter]: https://twitter.com/pranjal_kaler
