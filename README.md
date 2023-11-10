@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### Le code ne peut pas mentir, les commentaires peuvent!
 ## I am a developer, Aviation and Space Enthusiast\!
 - 🔭 I am currently employed at [Atlassian!]([https://atlassian.com/en](https://www.atlassian.com/?&aceid=&adposition=&adgroup=99178947294&campaign=9869842034&creative=431933448859&device=c&keyword=atlassian&matchtype=e&network=g&placement=&ds_kids=p53277688150&ds_e=GOOGLE&ds_eid=700000001530700&ds_e1=GOOGLE&utm_medium=paid-search&gclid=CjwKCAjwscGjBhAXEiwAswQqNBnoj8JreEOAb5UyyFeYRunQ_gkN6yrej6DL7TXMusbHOfiNQOiEDBoCIUcQAvD_BwE&gclsrc=aw.ds)) as a backend developer.
-- 💬 Domain: Rail Distribution.
 - 🌱 I am actively learning C++, Python and Android programming.
 - ⚡ Love to study about Aviation, Astronomy, developing simple solutions for daily use, CSGO and creating memes.
 
